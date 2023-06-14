@@ -35,7 +35,7 @@
 
 # 📖About the Project <a name="about-project"></a>
 
- This is an API as a back-end, [Click here]() to access the app's front end.
+ This is an Rails API app as a back-end, [Click here](https://github.com/hienphan0111/hello-react-front-end) to access the app's front end.
 
 <!--
 </br>
